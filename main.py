@@ -14,9 +14,9 @@ while True:
         minhasonda = input("Digite a opção referente a o que você quer saber sobre sua sonda: ")
 
         if minhasonda == "1":
-            print("\nBase líquida:\n- Água: 1000 ml\n- Fórmula enteral: 1500 ml\nNutrientes:\n- Proteínas: 80 gramas\n- Carboidratos: 150 gramas\n- Gorduras: 50 gramas\n")
+            print("\nBase líquida:\n- Água: 1000 ml\n- Fórmula enteral: 1500 ml\nNutrientes:\n- Proteínas: 80 gramas\n- Carboidratos: 150 gramas\n- Gorduras: 50 gramas\nVitaminas:\n- Vitamina A\n- Vitamina B12\n- Vitamina E\n- Vitaminas do Complexo\nFibras:\n- Fibras solúveis (Aveia em pó)\n- Fibras insolúveis (Cenouras cozidas e trituradas)\n")
         elif minhasonda == "2":
-            print("\nOs dados da sonda no momento são:\n- Temperatura: 28ºC\n- Nível: 600 ml\n")
+            print("\nOs dados da sonda no momento são:\n- Temperatura: 28ºC\n- Nível: 600 ml\n- Consistência: Líquida")
         elif minhasonda == "3":
             print("As informações sobre a sonda são:\n- Tipo: Gastrostomia\n- Modelo: Botton Mic-Key\n- Fabricante: Avanos\n- Data de fabricação: 23/02/21\n- Status: Em funcionamento\n")
         elif minhasonda == "4":
