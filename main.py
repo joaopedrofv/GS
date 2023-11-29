@@ -8,7 +8,12 @@ while True:
 
 # define a escolha do menu "Login"
     if menu == "1":
-        print("\nPara realizar o login do paciente digite as seguintes informações:\n- Nome do médico\n- CPF do paciente\n- Senha\n")
+        print("\nPara realizar o login do paciente digite as seguintes informações:")
+        NomeDoMedico = input("Digite o nome do medico: ")
+        CPF = input("Digite seu cpf: ")
+        Senha = input("Digite sua senha: ")
+
+        print("\n- Nome do médico: \n" + NomeDoMedico + "\n- CPF do paciente: \n" + CPF + "\n- Senha: \n" + Senha)
 
 # define a escolha do menu "Minha Sonda"
     elif menu == "2":
