@@ -27,3 +27,5 @@ _**Minha sonda:**_ Menu principal que mostra elementos referentes a sonda
       - Informações: Contém informações sobre a sonda em si, como modelo, fabricante, etc
   
 _**Perfil do paciente:**_ Contém dados do paciente, como aqueles pedidos na hora do cadastro
+# Link do vídeo
+https://youtu.be/lQyBGlX4hkc?si=AOWG5wbAxPTGkdXh
